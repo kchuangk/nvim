@@ -39,3 +39,4 @@ map("n", "<C-c>c", "<Plug>SlimeParagraphSend", { desc = "Send current paragraph 
 map("n", "<C-c><C-c>", "<Plug>SlimeLineSend", { desc = "Send current line to terminal", remap = true })
 
 map("n", "<leader>", "<cmd>WhichKey q<CR>", { desc = "Show which-key menu", remap = false })
+
